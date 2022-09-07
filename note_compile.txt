@@ -1,0 +1,3 @@
+# load this module could compile
+module load intel/2018u3_lapack_wo_mkl
+
